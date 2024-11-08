@@ -56,6 +56,7 @@
         class Client
     
 # le term super() est utile pour travailler avec l'HERITAGE
+    - super() fonction integree
     - perment d'appeler le methoded'une class Parent depuis une class Enfant
     - outille dinalyque
     - syntax :  super().methode_parent()
