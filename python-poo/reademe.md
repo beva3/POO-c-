@@ -35,3 +35,6 @@
     - Heritage (reutiliser du code)
         - class Animal
         - class Char(Animal)
+    
+    - Polymorphism (Une interface : +r comportements):
+        - chien.jouer_son != oiseau.jouer_son
