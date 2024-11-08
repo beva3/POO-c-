@@ -38,3 +38,25 @@
     
     - Polymorphism (Une interface : +r comportements):
         - chien.jouer_son != oiseau.jouer_son
+    
+# Projette-toi avec des petites projects
+    - gestion d'une bibliotheque
+        class Livre
+        class Lecteur
+        class Emprunt
+    
+    - jeu simple :
+        class Personnage
+        class Ennemi
+        class Niveau
+
+    - Application des gestoin:
+        class Produit
+        class Commande
+        class Client
+    
+# le term super() est utile pour travailler avec l'HERITAGE
+    - perment d'appeler le methoded'une class Parent depuis une class Enfant
+    - outille dinalyque
+    - syntax :  super().methode_parent()
+                Parent.methode_parent()
