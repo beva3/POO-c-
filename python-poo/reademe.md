@@ -31,3 +31,7 @@
     - Encapsulation (Cacher les details intern)
         - attribut privee 
         + ex : class compteBancaire
+    
+    - Heritage (reutiliser du code)
+        - class Animal
+        - class Char(Animal)
