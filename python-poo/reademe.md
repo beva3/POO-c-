@@ -18,3 +18,16 @@
 # pratiquer avec des exemple du quotidien
     - fais des class basse sur des conceots simple : Animal, Voiture, Livre
     + ex : class Chien, 
+
+# Utiliser le POO pour organiser ton code
+    - But principale : Organiser les donnees et le comportement ensembles
+    + ex : si tu travailes sur un jeu:
+        class Joueur
+        class Ennemi
+        class Niveau
+        ...
+
+# Maitriser les concepts cles progressivements
+    - Encapsulation (Cacher les details intern)
+        - attribut privee 
+        + ex : class compteBancaire
